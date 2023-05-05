@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Test\WinFormTest\bin\Debug\WinFormTest.exe.config
+C:\Users\Dell\Desktop\Test\WinFormTest\bin\Debug\WinFormTest.exe
+C:\Users\Dell\Desktop\Test\WinFormTest\bin\Debug\WinFormTest.pdb
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.FrmEmp.resources
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.exe
+C:\Users\Dell\Desktop\Test\WinFormTest\obj\Debug\WinFormTest.pdb
